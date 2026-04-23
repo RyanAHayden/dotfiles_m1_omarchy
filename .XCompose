@@ -4,5 +4,5 @@
 include "%H/.local/share/omarchy/default/xcompose"
 
 # Identification
-<Multi_key> <space> <n> : ""
-<Multi_key> <space> <e> : ""
+<Multi_key> <space> <n> : "Ryan Hayden"
+<Multi_key> <space> <e> : "microhayden@gmail.com"
